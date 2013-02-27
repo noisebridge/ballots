@@ -1,0 +1,13 @@
+<pre style="width: 28%%; float:left; page-break-after:always; border:1px solid black; margin:1em; padding:1em; font: 7px monospace; page-break-inside: avoid;">
+2013 Noisebridge Board Election
+ballot %s
+
+Instructions: Place an X in the box next to
+the name of each candidate you want to vote for.
+You may vote for any number of candidates.
+
+Note: there are five seats on the board.
+
+%s
+</pre>
+
